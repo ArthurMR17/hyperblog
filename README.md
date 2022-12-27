@@ -1,6 +1,6 @@
 # Hyperblog 😎
 
-<img alt="Codeship" src="https://img.shields.io/badge/Avance_del_Curso-77%25-brightgreen">
+<img alt="Codeship" src="https://img.shields.io/badge/Avance_del_Curso-90%25-brightgreen">
 
 Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git-github/ " curso de Git y Github") de [Platzi](https://platzi.com/ "Platzi")
 
